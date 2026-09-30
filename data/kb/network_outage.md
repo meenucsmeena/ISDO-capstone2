@@ -1,3 +1,4 @@
+
 # KB-NET-002: Network Outage — Switch / Infrastructure Failure
 
 **Category:** Network  
